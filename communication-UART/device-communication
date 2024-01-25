@@ -1,0 +1,19 @@
+UART
+----
+
+universal Asynchronous Reciever & Transmitter
+
+UART :cross wires
+
+Rx::ARD::Tx-------->RX:RX<--------Tx::ARD::Rx
+No clock line
+no Master
+no Slave
+Peer to peer
+Asynchronous
+
+Serial interface
+----------------
+
+
+PC:-----UART
